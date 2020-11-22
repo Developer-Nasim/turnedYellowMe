@@ -1,0 +1,3917 @@
+/* Big-desktop screen :1200px. */
+@media (min-width: 1500px) and (max-width: 2300px) {
+    body { 
+        font-size: 16px;
+       }
+       .logo-area a img {
+        width: 100%;
+    }
+    
+    .menu-area nav ul li a {
+        font-size: 18px;
+        margin: 0 25px;
+    } 
+    .header-action ul li .nice-select {
+        width: 130px;
+        height: 60px;
+        line-height: 60px; 
+        font-size: 22px; 
+     }
+     .how-its-work .section-title h1 {
+        font-size: 64px !important;
+        margin-bottom: 5px;
+    }
+    .section-title p {
+        font-size: 24px;
+    }
+    .works-blk img {
+        height: 150px;
+    }  
+    .how-its-work.about .works-blk img {
+        height: 80px;
+    }  
+    .works-blk h5 {
+        padding-bottom: 130px;
+        font-size: 24px;
+    }
+    a.theme-btn {
+        height: 60px;
+        width: 220px;
+        line-height: 60px;
+    }
+
+    .works-blk a { 
+        bottom: -35px; 
+    }
+    .how-its-work span.snape-one {
+        width: 130px;
+        height: 130px; 
+        top: 3%; 
+    }
+    .how-its-work {
+        padding-top: 110px;
+    }
+    .how-its-work:before { 
+        width: 500px;
+        height: 500px; 
+        top: 13%;
+        left: -300px;
+        border-radius: 50%; 
+    }
+    .how-its-work:after { 
+        width: 550px;
+        height: 550px; 
+        top: 5%;
+        right: -300px; 
+    }
+    .main-steps {
+        margin-top: 50px;
+    }
+    .step-desc {
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        margin-bottom: 40px;
+    }
+    .step-desc h4 {
+        font-size: 21px; 
+        margin-bottom: 10px;
+    }
+    .gallery-wrp {
+        width: 100%;
+        padding-right: 100px;
+    }
+    .gallery-area {
+        padding: 310px 0;
+        background-size: 100% 100%;
+        background-position: left;
+    }
+    .gallery-wrp h3 {
+        font-size: 34px;
+        margin-bottom: 22px;
+    }
+    .gallery-wrp p {
+        margin-bottom: 40px;
+    } 
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1450px;
+    }
+    .sm-imgs img {
+        width: 155px;
+        height: 155px; 
+    }
+    .big-img img { 
+        height: 560px; 
+    }
+    .cd-image-container img { 
+        width: 100%;
+        height: 460px; 
+    }
+    .cd-handle img {
+        width: 100%;
+        height: 100%;
+    }
+    .cd-handle { 
+        height: 130px;
+        width: 130px;
+        left: 50%;
+        top: 50%;
+        margin-left: -67px;
+        margin-top: -68px; 
+    }
+    .bottom-gallery img { 
+        height: 330px; 
+    } 
+    .bottom-gallery { 
+        padding-top: 100px;
+        padding-bottom: 160px;
+    }
+    .bottom-gallery:before { 
+        width: 500px;
+        height: 500px;  
+        left: -225px; 
+    }
+
+    .bottom-gallery:after { 
+        width: 500px;
+        height: 500px; 
+        bottom: 80px;
+        right: -300px; 
+    }
+    .bottom-gallery span.snape-two {
+        width: 90px;
+        height: 90px; 
+        bottom: 1%;
+        right: 15%;
+    }
+    .section-title h1 {
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+
+    .section-title span { 
+        margin-top: 30px;
+        line-height: 26px; 
+    }
+    .slider-item img {
+        width: 100px;
+        height: 100px; 
+        margin-bottom: 40px;
+    } 
+    .slider-item h4 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    .slider-item span {
+        width: 30px;
+        height: 30px;  
+        line-height: 30px; 
+        font-size: 14px;  
+        margin-top: -5px;
+    }
+    .slider-item h5 {
+        font-size: 15px; 
+    }
+    .slider-item h5 b {
+        letter-spacing: 3px;
+    }
+    .slider-item h5 ul li svg {
+        width: 15px;
+    }
+    .slider-item h5 ul li.last-icon svg {
+        width: 95px;
+        height: 110px;
+        transform: scale(.2); 
+        top: -41px;
+        left: -38px;
+    }
+    .slider-item {
+        padding: 35px;  
+    }
+    .slider-item img.snape {  
+        margin-top: 30px;
+        margin-bottom: 25px;
+    }
+
+    .slider-item p {
+        font-size: 18px;  
+        padding-right: 28px;
+        margin: 0;
+    }
+    button.slick-arrow {
+        left: 0; 
+        transform: scale(.4); 
+        top: 35%;
+    }
+    button.slick-next.slick-arrow {
+        left: auto;
+        right: 0px;
+    }
+    .step-items .img.sec span { 
+        bottom: -15px;
+        left: 8%; 
+        width: 80px;
+        height: 80px; 
+        line-height: 80px;
+        font-size: 26px; 
+    }
+    .section-title {
+        margin-bottom: 110px;
+    }
+    .features-area { 
+        padding-top: 175px;
+        padding-bottom: 50px;
+    }
+    .feature-blk img {
+        margin-bottom: 50px;
+    }
+    .feature-blk h4 {
+        font-size: 20px; 
+        margin-bottom: 20px;
+    }
+    .feature-blk { 
+        padding: 30px; 
+        padding-top: 70px;
+    }
+    .testimonail-area { 
+        margin-bottom: 0;
+    }
+    .footer-menu ul li a {
+        margin-left: 60px;
+        font-size: 15px;
+    }
+    .copy-texts p { 
+        font-size: 14px;
+    }
+    .footer-content {
+        padding: 60px 0;
+    }
+    .copy-texts { 
+        padding: 20px 0;
+    }
+    .footer-logo a img {
+        width: 75%;
+    }
+    .Image-preview {
+        margin: 90px 0;
+    }
+    .geller-blk.mt-225 {
+        margin-top: 100px;
+    }  
+    .paying-detailse h3 {
+        font-size: 42px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .paying-detailse h5 { 
+        font-size: 18px; 
+    }
+    .paying-detailse h5 .price span { 
+        padding: 13px 21px;
+        margin-left: 20px;
+    }
+    .paying-detailse h5 a {
+        min-width: 290px;
+        height: 60px; 
+        line-height: 60px; 
+        font-size: 18px; 
+    }
+    .paying-detailse p {
+        margin-top: 40px;
+        margin-bottom: 70px;
+    }
+    .paying-detailse li h4 { 
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .paying-detailse li .nice-select {
+        width: 380px;
+        height: 50px;
+        line-height: 50px;
+        padding-left: 25px; 
+        font-size: 16px;
+        margin-right: 45px;
+    }
+    .paying-detailse li .nice-select:after {
+        border-bottom: 2px solid #B6B6B8;
+        border-right: 2px solid #B6B6B8;
+        height: 10px;
+        margin-top: -6px;
+        right: 30px;
+        top: 50%;
+        width: 10px;
+    }
+    .paying-detailse li .nice-select ul li { 
+        font-size: 18px; 
+    }
+    .paying-detailse li input {
+        width: 380px;
+        height: 50px; 
+        padding-left: 25px; 
+        font-size: 16px; 
+    }
+    .paying-detailse a.theme-btn { 
+        margin-top: 70px;
+    } 
+    .tab-pane {
+        height: 600px; 
+        border-radius: 20px; 
+    }
+    .img-gellery .nav li.nav-item {
+        width: 170px;
+        margin: 0 10px;  
+        height: 170px;
+        border-radius: 25px; 
+        margin-top: 20px;
+    }
+    ul#pills-tab {
+        justify-content: center;
+    }
+    .product-detailse {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .order-steps {
+        padding: 200px 0;
+        padding-bottom: 150px;
+    }
+    .order-single-blk { 
+        padding: 40px 30px;
+        border-radius: 20px; 
+    }
+    .order-single-blk span {
+        height: 80px;
+        min-width: 80px; 
+        line-height: 80px; 
+        font-size: 20px;  
+        margin-right: 40px;
+    }
+    .addOns-area .mt-100 {
+        margin-top: 50px;
+    }
+    .addOns-blk h4 {
+        font-size: 18px; 
+        padding: 35px 0; 
+    }
+    .addOns-area {
+        margin-top: 100px;
+    }
+    .Bredcramp-area { 
+        height: 700px; 
+    }
+
+    .bradcramp-text h1 {
+        font-size: 80px; 
+    }
+    .how-its-work.about .works-blk h5 {
+        margin: 0;
+        margin-top: 30px;
+        font-size: 22px;
+        padding-bottom: 15px;
+    }
+    .how-its-work.about .works-blk p {
+        margin: 0;
+        padding: 0 60px;
+        padding-bottom: 60px;
+    }
+    .gallery-area.gtwo.detailse.about .gallery-wrp {
+        padding: 0;
+        width: unset;
+        padding-left: 100px;
+    }
+    .how-its-work.about {
+        padding-top: 220px;
+    }
+    .how-its-work.about:before { 
+        width: 500px;
+        height: 500px; 
+        top: 15%;
+        left: -300px; 
+    }
+    .how-its-work.about:after {
+        width: 485px;
+        height: 485px;
+        top: 5%;
+        right: -300px;
+    }
+    .how-its-work.about .top-steps {
+        height: 520px;
+    } 
+    .point-img img {
+        width: 100%;
+    }
+    .point-blk .point-wrp h4 {
+        font-size: 28px; 
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .point-blk span {
+        font-size: 29px; 
+        min-width: 100px;
+        height: 100px;
+        line-height: 100px; 
+        margin-right: 40px;
+        margin-top: -35px;
+    }
+
+    .point-blk { 
+        padding-right: 90px;
+        margin-bottom: 80px;
+    }
+    .point-blk .point-wrp h4 {
+        font-size: 22px; 
+        line-height: 22px;
+        margin-bottom: 10px;
+    } 
+    .artis { 
+        padding-bottom: 30px; 
+    }
+    .artis h5 {
+        font-size: 20px;
+        margin-top: 25px;
+        margin-bottom: 5px;
+    }
+    .artist-area.how-its-work.detailse.about .section-title h1 {
+        font-size: 40px !important;
+        margin-bottom: 0px;
+    }
+
+    .paying-detailse .card .card-header button {
+        padding: 35px 50px; 
+        font-size: 24px; 
+    }
+    .paying-detailse .card .card-header button.btn.btn-link.collapsed span { 
+        right: 50px;
+        top: 36px;
+    }
+    .paying-detailse .card .card-header button.btn.btn-link span { 
+        right: 50px;
+        top: 35px;
+    }  
+    .paying-detailse .card .card-body h3 {
+        font-size: 20px; 
+        margin-bottom: 50px;
+    }
+    .paying-detailse .card .card-body .price-numbers ul li a {
+        padding: 0;
+        width: 50px;
+        height: 50px;
+        line-height: 50px; 
+        margin-right: 11px;
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .paying-detailse .card .card-body {
+        padding: 0 60px;
+        padding-top: 20px;
+    }
+    .paying-detailse .card .card-body ul {
+        margin-bottom: 70px;
+    }
+    .paying-detailse .card .card-body ul li a { 
+        padding: 0px 40px; 
+        border-radius: 100px;
+        height: 50px;
+        line-height: 50px; 
+        margin-right: 15px;
+        margin-bottom: 15px;
+        font-size: 14px;
+    }
+    .addons-detailse i { 
+        width: 100%;
+        padding: 40px 80px; 
+        border-radius: 15px; 
+        font-size: 18px; 
+    }
+    .addons-detailse a { 
+        font-size: 24px; 
+        padding: 30px 50px;
+        margin-top: 30px;
+    }
+    .paying-detailse form textarea { 
+        min-height: 215px;
+        max-height: 215px;
+        border-radius: 30px;
+        padding: 25px;
+        padding-left: 45px; 
+    }
+    .paying-detailse form .f-btns a {
+        margin-top: 40px;
+    }
+    .paying-detailse form span { 
+        padding: 15px 0px;
+        padding-left: 55px; 
+    }
+    .paying-detailse .card {  
+        border-radius: 20px;
+        margin-bottom: 60px;
+    }
+
+    .addons-detailse { 
+        border-radius: 20px;
+        margin-bottom: 60px;
+    } 
+    .cart-area {
+        padding: 100px 0;
+    }
+    .single-cart table thead tr th { 
+        padding-bottom: 30px;
+    }
+    .single-cart table tbody tr td { 
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .single-cart table tbody tr td img {
+        width: 130px;
+        height: 130px;  
+        margin-right: 40px;
+    }
+    .single-cart table thead tr th:first-child {
+        padding-left: 50px;
+    }
+    .single-cart table thead tr th:last-child {
+        padding-right: 50px;
+    }
+    .single-cart table tbody tr td:first-child {
+        padding-left: 50px;
+    }
+    .single-cart table tbody tr td:last-child {
+        padding-right: 50px;
+    }
+    .single-cart table tbody tr td .cart-wrp h5 { 
+        font-size: 22px;
+    } 
+    .single-cart table tbody tr td .cart-wrp h5 span { 
+        margin-top: 5px;
+        font-size: 18px;
+    }
+    .nice-number button {
+        height: 43px;
+        width: 43px; 
+        font-size: 30px;
+        line-height: 39px;
+    }
+    .nice-number input[type="number"] {
+        min-width: 55px; 
+    }
+    .single-cart table tbody tr td a.trash {
+        height: 50px;
+        width: 50px;
+        line-height: 50px; 
+        margin-left: 0;
+    }
+    .single-cart table { 
+        margin-bottom: 70px;
+    }
+    .total-costs h4 {
+        margin: 0;
+        height: 85px;
+        line-height: 85px;
+        width: 450px; 
+        border-radius: 15px;
+        font-size: 18px;
+    }
+    .services-contain p {
+        padding-bottom: 10px;
+        font-size: 16px;
+        line-height: 30px;
+    } 
+    .services-area {
+        padding-top: 120px; 
+    } 
+    .btn.btn-link.collapsed { 
+        font-size: 18px; 
+        padding: 20px 40px; 
+    }   
+    .btn.btn-link { 
+        font-size: 18px; 
+        padding: 20px 40px; 
+      }
+      .accordion-area div#accordion span { 
+        right: 40px;
+        font-size: 30px;  
+      }
+      .card-body p {
+        padding: 10px 0;
+        margin-left: 50px;
+      } 
+      .card-body p:last-child {
+        padding-top: 0px;
+      } 
+    .contact-from p { 
+        font-weight: 400; 
+        margin-bottom: 15px;
+        margin-left: 30px;
+    }
+      
+    .contact-from ::placeholder { 
+        font-size: 16px; 
+        
+    }
+    .contact-from input { 
+        border-radius: 50px;
+        padding: 15px 30px; 
+        margin-bottom: 30px;
+    }
+    .contact-from textarea.message { 
+        border-radius: 30px; 
+        padding: 20px 30px;
+        min-height: 260px;
+    }  
+    .contact-btn.btn {
+        height: 60px;
+        width: 220px;
+        line-height: 60px;
+        padding: 0px;
+    }
+    textarea.message {
+        margin-bottom: 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* Desktop screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+ body { 
+    font-size: 16px;
+    }
+    .header-main {
+        padding: 30px 0;
+    }
+    .logo-area a img {
+        width: 100%;
+    } 
+    .menu-area nav ul li a {
+        font-size: 18px;
+        margin: 0 12px;
+    }
+    .header-action ul li .nice-select {
+        width: 90px;
+        height: 46px;
+        line-height: 50px;
+        font-size: 18px;
+        padding: 0;
+    }
+    .header-action ul li a i {
+        margin-right: 25px;
+        font-size: 20px;
+    }
+    .header-action ul li .nice-select ul.list li { 
+        font-size: 16px;
+    }
+    .menu-area nav ul li a:after { 
+        height: 5px; 
+        bottom: -15px; 
+    }
+    .how-its-work .section-title h1 {
+        font-size: 64px !important;
+        margin-bottom: 5px;
+    }
+    .section-title p {
+        font-size: 24px;
+    }
+    .works-blk img {
+        height: 100px;
+    }  
+
+    .works-blk h5 {
+        padding-bottom: 25px;
+        font-size: 22px;
+        margin-top: 60px;
+    }
+    a.theme-btn {
+        height: 50px;
+        width: 190px;
+        line-height: 55px;
+        font-size: 13px;
+    }
+    .works-blk a {
+        bottom: -20px;
+    }
+    .works-blk:hover {
+        padding-top: 90px; 
+    }
+    .how-its-work span.snape-two {
+        width: 90px;
+        height: 90px; 
+        top: 31%; 
+        right: 4%;
+    }
+    .top-steps {
+        height: 410px;
+    }
+    .how-its-work span.snape-one {
+        width: 80px;
+        height: 80px;
+        top: 3%;
+    }
+    .how-its-work {
+        padding-top: 110px;
+    }
+    .how-its-work:before {
+        width: 300px;
+        height: 300px;
+        top: 8%;
+        left: -150px;
+        border-radius: 50%;
+    }
+    .how-its-work:after {
+        width: 400px;
+        height: 400px;
+        top: 4%;
+        right: -200px;
+    }
+    .main-steps {
+        margin-top: 50px;
+    }
+    .step-desc {
+        padding-left: 25px;
+        padding-right: 50px;
+        padding-top: 35px;
+        padding-bottom: 10px;
+        margin-bottom: 40px;
+    }
+    .step-desc h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .works-blk:hover h5 {
+        padding-bottom: 80px;
+    }
+    .gallery-wrp {
+        width: 100%;
+        padding-right: 100px;
+    }
+    .gallery-area {
+        padding: 202px 0;
+        background-size: cover;
+        background-position: center left;
+        padding-top: 300px;
+    }
+    .gallery-wrp h3 {
+        font-size: 34px;
+        margin-bottom: 22px;
+    }
+    .gallery-wrp p {
+        margin-bottom: 40px;
+    } 
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1450px;
+    }
+    .sm-imgs img {
+        width: 120px;
+        height: 120px;
+        margin-bottom: 15px;
+    }
+    .big-img img { 
+        height: 390px; 
+    }
+    .cd-image-container img { 
+        width: 100%;
+        height: 460px; 
+    }
+    .cd-handle img {
+        width: 100%;
+        height: 100%;
+    }
+    .cd-handle { 
+        height: 130px;
+        width: 130px;
+        left: 50%;
+        top: 50%;
+        margin-left: -67px;
+        margin-top: -68px; 
+    }
+    .bottom-gallery img { 
+        height: 265px; 
+    } 
+    .bottom-gallery { 
+        padding-top: 100px;
+        padding-bottom: 160px;
+    }
+    .bottom-gallery:before { 
+        width: 500px;
+        height: 500px;  
+        left: -225px; 
+    }
+
+    .bottom-gallery:after { 
+        width: 500px;
+        height: 500px; 
+        bottom: 80px;
+        right: -300px; 
+    }
+    .bottom-gallery span.snape-two {
+        width: 90px;
+        height: 90px; 
+        bottom: 1%;
+        right: 15%;
+    }
+    .section-title h1 {
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+
+    .section-title span { 
+        margin-top: 30px;
+        line-height: 26px; 
+    }
+    .slider-item img {
+        width: 100px;
+        height: 100px; 
+        margin-bottom: 40px;
+    } 
+    .slider-item h4 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    .slider-item span {
+        width: 30px;
+        height: 30px;  
+        line-height: 30px; 
+        font-size: 14px;  
+        margin-top: -5px;
+    }
+    .slider-item h5 {
+        font-size: 15px; 
+    }
+    .slider-item h5 b {
+        letter-spacing: 3px;
+    }
+    .slider-item h5 ul li svg {
+        width: 15px;
+    }
+    .slider-item h5 ul li.last-icon svg {
+        width: 95px;
+        height: 110px;
+        transform: scale(.2); 
+        top: -41px;
+        left: -38px;
+    }
+    .slider-item {
+        padding: 35px;  
+    }
+    .slider-item img.snape {
+        margin-top: 10px;
+        margin-bottom: 25px;
+    }
+    .slider-item p {
+        font-size: 15px;
+        padding-right: 20px;
+        margin: 0;
+    }
+    .works-blk.active {
+        padding-top: 90px; 
+    }
+    .works-blk.active h5 {
+        padding-bottom: 80px;
+    }
+    button.slick-arrow {
+        left: 0;
+        transform: scale(.4) translateY(-50%);
+    }
+    button.slick-next.slick-arrow { 
+        right: -20px;
+    }
+    .section-title {
+        margin-bottom: 110px;
+    }
+    .features-area { 
+        padding-top: 175px;
+        padding-bottom: 50px;
+    }
+    .feature-blk img {
+        margin-bottom: 40px;
+        height: 65px;
+    }
+    .feature-blk h4 {
+        font-size: 20px; 
+        margin-bottom: 20px;
+    }
+    .feature-blk { 
+        padding: 30px; 
+        padding-top: 70px;
+    }
+    .testimonail-area { 
+        margin-bottom: 0;
+    }
+    .footer-menu ul li a { 
+        margin-left: 60px; 
+    }
+    .copy-texts p { 
+        font-size: 15px;
+    }
+    .footer-content {
+        padding: 60px 0;
+    }
+    .copy-texts { 
+        padding: 20px 0;
+    }
+    .footer-logo a img {
+        width: 90%;
+    }
+    .Image-preview {
+        margin-top: -30px;
+    }
+    .geller-blk.mt-225 {
+        margin-top: 100px;
+    }
+    .works-blk {
+        padding-top: 50px; 
+    }
+    .step-items .img.sec span { 
+        bottom: -40px; 
+        transform: scale(.6);
+    } 
+    .paying-detailse h3 {
+        font-size: 36px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    .paying-detailse h5 {
+        font-size: 16px;
+    } 
+    .paying-detailse h5 .price span { 
+        padding: 13px 21px;
+        margin-left: 20px;
+    }
+    .paying-detailse h5 a {
+        min-width: 250px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 16px;
+    }
+    .paying-detailse p {
+        margin-top: 40px;
+        margin-bottom: 70px;
+    }
+    .paying-detailse li h4 { 
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .paying-detailse li .nice-select {
+        width: 250px;
+        height: 40px;
+        line-height: 40px;
+        padding-left: 25px;
+        font-size: 16px;
+        margin-right: 45px;
+    }
+    .paying-detailse li .nice-select:after {
+        border-bottom: 2px solid #B6B6B8;
+        border-right: 2px solid #B6B6B8;
+        height: 10px;
+        margin-top: -6px;
+        right: 30px;
+        top: 50%;
+        width: 10px;
+    }
+    .paying-detailse li .nice-select ul li { 
+        font-size: 18px; 
+    }
+    .paying-detailse li input {
+        width: 250px;
+        height: 40px;
+        line-height: 40px;
+        padding-left: 25px;
+        font-size: 16px;
+    }
+    .paying-detailse a.theme-btn { 
+        margin-top: 70px;
+    } 
+    .tab-pane {
+        height: 600px; 
+        border-radius: 20px; 
+    }
+    .img-gellery .nav li.nav-item {
+        width: 130px;
+        margin: 0 10px;
+        height: 130px;
+        border-radius: 15px;
+        margin-top: 20px;
+    }
+    ul#pills-tab {
+        justify-content: center;
+    }
+    .product-detailse {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .order-steps {
+        padding: 200px 0;
+        padding-bottom: 150px;
+    }
+    .order-single-blk { 
+        padding: 40px 30px;
+        border-radius: 20px; 
+    }
+    .order-single-blk span {
+        height: 80px;
+        min-width: 80px; 
+        line-height: 80px; 
+        font-size: 20px;  
+        margin-right: 40px;
+    }
+    .addOns-area .mt-100 {
+        margin-top: 50px;
+    }
+    .addOns-blk h4 {
+        font-size: 16px;
+        padding: 30px 0;
+    }
+    .addOns-area {
+        margin-top: 100px;
+    }
+    .img-gellery.product-imgs {
+        padding-right: 50px;
+    }
+    .gallery-area.addOns {
+        padding: 202px 0; 
+        padding-top: 380px;
+    } 
+    .Bredcramp-area { 
+        height: 400px; 
+    }
+
+    .bradcramp-text h1 {
+        font-size: 60px; 
+    }
+    .how-its-work.about .works-blk h5 {
+        margin: 0;
+        margin-top: 30px;
+        font-size: 22px;
+        padding-bottom: 15px;
+    }
+    .how-its-work.about .works-blk p {
+        margin: 0;
+        padding: 0 60px;
+        padding-bottom: 60px;
+    }
+    .gallery-area.gtwo.detailse.about .gallery-wrp {
+        padding: 0;
+        width: unset;
+        padding-left: 100px;
+    }
+    .how-its-work.about {
+        padding-top: 220px;
+    }
+    .how-its-work.about:before { 
+        width: 500px;
+        height: 500px; 
+        top: 15%;
+        left: -300px; 
+    }
+    .how-its-work.about:after {
+        width: 485px;
+        height: 485px;
+        top: 5%;
+        right: -300px;
+    }
+    .how-its-work.about .top-steps {
+        height: 520px;
+    } 
+    .point-img img {
+        width: 100%;
+    }
+    .point-blk .point-wrp h4 {
+        font-size: 28px; 
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .point-blk span {
+        font-size: 29px; 
+        min-width: 100px;
+        height: 100px;
+        line-height: 100px; 
+        margin-right: 40px;
+        margin-top: -35px;
+    }
+
+    .point-blk { 
+        padding-right: 90px;
+        margin-bottom: 80px;
+    }
+    .point-blk .point-wrp h4 {
+        font-size: 22px; 
+        line-height: 22px;
+        margin-bottom: 10px;
+    }
+    .artis { 
+        padding-bottom: 30px; 
+    }
+    .artis h5 {
+        font-size: 20px;
+        margin-top: 25px;
+        margin-bottom: 5px;
+    }
+    .gallery-area.gtwo.detailse.about {
+        background-size: 100% 100%;
+    }
+    .artist-area.how-its-work.detailse.about:after {
+        width: 320px;
+        height: 320px;
+        top: 10%;
+        right: -200px;
+    }
+
+    .artist-area.how-its-work.detailse.about .section-title h1 {
+        font-size: 40px !important;
+        margin-bottom: 0px;
+    } 
+    .paying-detailse .card .card-header button {
+        padding: 15px 30px;
+        font-size: 20px;
+    } 
+    .paying-detailse .card .card-header button.btn.btn-link.collapsed span { 
+        right: 50px;
+        top: 16px;
+    }
+    .paying-detailse .card .card-header button.btn.btn-link span { 
+        right: 50px;
+        top: 16px;
+    }  
+    .paying-detailse .card .card-body h3 {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .paying-detailse .card .card-body .price-numbers ul li a {
+        padding: 0;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 10px;
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .paying-detailse .card .card-body {
+        padding: 0 35px;
+        padding-top: 30px;
+    }
+    .paying-detailse .card .card-body ul {
+        margin-bottom: 40px;
+    }
+    .paying-detailse .card .card-body ul li a {
+        padding: 0px 35px;
+        border-radius: 100px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 5px;
+        margin-bottom: 8px;
+        font-size: 11px;
+    }
+    .addons-detailse i { 
+        width: 100%;
+        padding: 40px 80px; 
+        border-radius: 15px; 
+        font-size: 18px; 
+    }
+    .addons-detailse a {
+        font-size: 20px;
+        padding: 20px 50px;
+        margin-top: 10px;
+    }
+    .paying-detailse form textarea {
+        min-height: 170px;
+        max-height: 170px;
+        border-radius: 20px;
+        padding: 15px;
+        padding-left: 57px;
+    }
+    .paying-detailse form .f-btns a {
+        margin-top: 40px;
+    }
+    .paying-detailse form span { 
+        padding: 15px 0px;
+        padding-left: 55px; 
+    }
+    .paying-detailse .card {
+        border-radius: 15px;
+        margin-bottom: 40px;
+    } 
+
+    .addons-detailse { 
+        border-radius: 15px;
+        margin-bottom: 40px;
+    } 
+
+    .cart-area {
+        padding: 100px 0;
+    }
+    .single-cart table thead tr th { 
+        padding-bottom: 30px;
+    }
+    .single-cart table tbody tr td { 
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .single-cart table tbody tr td img {
+        width: 130px;
+        height: 130px;  
+        margin-right: 40px;
+    }
+    .single-cart table thead tr th:first-child {
+        padding-left: 50px;
+    }
+    .single-cart table thead tr th:last-child {
+        padding-right: 50px;
+    }
+    .single-cart table tbody tr td:first-child {
+        padding-left: 50px;
+    }
+    .single-cart table tbody tr td:last-child {
+        padding-right: 50px;
+    }
+    .single-cart table tbody tr td .cart-wrp h5 { 
+        font-size: 22px;
+    } 
+    .single-cart table tbody tr td .cart-wrp h5 span { 
+        margin-top: 5px;
+        font-size: 18px;
+    }
+    .nice-number button {
+        height: 43px;
+        width: 43px; 
+        font-size: 30px;
+        line-height: 39px;
+    }
+    .nice-number input[type="number"] {
+        min-width: 55px; 
+    }
+    .single-cart table tbody tr td a.trash {
+        height: 50px;
+        width: 50px;
+        line-height: 50px; 
+        margin-left: 0;
+    }
+    .single-cart table { 
+        margin-bottom: 70px;
+    }
+    .total-costs h4 {
+        margin: 0;
+        height: 85px;
+        line-height: 85px;
+        width: 450px; 
+        border-radius: 15px;
+        font-size: 18px;
+    } 
+    .services-contain p {
+        padding-bottom: 10px;
+        font-size: 16px;
+        line-height: 30px;
+    } 
+    .services-area {
+        padding-top: 120px; 
+    } 
+    .services-contain h2 {
+        font-size: 28px; 
+        margin-bottom: 40px;
+    } 
+    .services-contain {
+        margin-bottom: 80px;
+    } 
+    .accordion-area {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    } 
+    .btn.btn-link.collapsed { 
+        font-size: 18px; 
+        padding: 20px 40px; 
+    }   
+    .btn.btn-link { 
+        font-size: 18px; 
+        padding: 20px 40px; 
+      }
+      .accordion-area div#accordion span { 
+        right: 40px;
+        font-size: 30px;  
+      }
+      .card-body p {
+        padding: 10px 0;
+        margin-left: 50px;
+      } 
+      .card-body p:last-child {
+        padding-top: 0px;
+      } 
+    .contact-from p { 
+        font-weight: 400; 
+        margin-bottom: 15px;
+        margin-left: 30px;
+    }
+      
+    .contact-from ::placeholder { 
+        font-size: 16px; 
+        
+    }
+    .contact-from input { 
+        border-radius: 50px;
+        padding: 15px 30px; 
+        margin-bottom: 30px;
+    }
+    .contact-from textarea.message { 
+        border-radius: 30px; 
+        padding: 20px 30px;
+        min-height: 260px;
+    }  
+    .contact-btn.btn {
+        height: 60px;
+        width: 220px;
+        line-height: 60px;
+        padding: 0px;
+    }
+    textarea.message {
+        margin-bottom: 40px;
+    }
+    .Contact-us-area {
+        padding: 70px 0px;
+    }
+
+
+
+} 
+
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    body { 
+        font-size: 14px;
+        }
+        .header-main {
+            padding: 30px 0;
+        }
+        .logo-area a img {
+            width: 100%;
+        } 
+        .menu-area nav ul li a {
+            font-size: 17px;
+            margin: 0 10px;
+        }
+        .header-action ul li .nice-select {
+            width: 90px;
+            height: 46px;
+            line-height: 50px;
+            font-size: 18px;
+            padding: 0;
+        }
+        .header-action ul li a i {
+            margin-right: 25px;
+            font-size: 20px;
+        }
+        .header-action ul li .nice-select ul.list li { 
+            font-size: 16px;
+        }
+        .menu-area nav ul li a:after { 
+            height: 5px; 
+            bottom: -15px; 
+        }
+        .how-its-work .section-title h1 {
+            font-size: 64px !important;
+            margin-bottom: 5px;
+        }
+        .section-title p {
+            font-size: 24px;
+        }
+        .works-blk img {
+            height: 100px;
+        }  
+    
+        .works-blk h5 {
+            padding-bottom: 25px;
+            font-size: 22px;
+            margin-top: 60px;
+        }
+        a.theme-btn {
+            height: 50px;
+            width: 190px;
+            line-height: 55px;
+            font-size: 13px;
+        }
+        .works-blk a {
+            bottom: -20px;
+        }
+        .works-blk:hover {
+            padding-top: 90px; 
+        }
+        .how-its-work span.snape-two {
+            width: 90px;
+            height: 90px; 
+            top: 31%; 
+            right: 4%;
+        }
+        .top-steps {
+            height: 410px;
+        }
+        .how-its-work span.snape-one {
+            width: 80px;
+            height: 80px;
+            top: 3%;
+        }
+        .how-its-work {
+            padding-top: 110px;
+        }
+        .how-its-work:before {
+            width: 300px;
+            height: 300px;
+            top: 8%;
+            left: -150px;
+            border-radius: 50%;
+        }
+        .how-its-work:after {
+            width: 400px;
+            height: 400px;
+            top: 4%;
+            right: -200px;
+        }
+        .main-steps {
+            margin-top: 50px;
+        }
+        .step-desc {
+            padding-left: 25px;
+            padding-right: 50px;
+            padding-top: 35px;
+            padding-bottom: 10px;
+            margin-bottom: 40px;
+        }
+        .step-desc h4 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        .works-blk:hover h5 {
+            padding-bottom: 80px;
+        }
+        .gallery-wrp {
+            width: 100%;
+            padding-right: 100px;
+        }
+        .gallery-area {
+            padding: 202px 0;
+            background-size: cover;
+            background-position: center left;
+            padding-top: 185px;
+        }
+        .gallery-wrp h3 {
+            font-size: 24px;
+            margin-bottom: 18px;
+        }
+        .gallery-wrp p {
+            margin-bottom: 40px;
+        } 
+        .container, .container-lg, .container-md, .container-sm, .container-xl {
+            max-width: 1450px;
+        }
+        .sm-imgs img {
+            width: 95px;
+            height: 95px;
+            margin-bottom: 15px;
+        }
+        .big-img img { 
+            height: 315px; 
+        }
+        .cd-image-container img { 
+            width: 100%;
+            height: 460px; 
+        }
+        .cd-handle img {
+            width: 100%;
+            height: 100%;
+        }
+        .cd-handle {
+            height: 100px;
+            width: 100px;
+            left: 50%;
+            top: 50%;
+            margin-left: -52px;
+            margin-top: -60px;
+        }
+        .bottom-gallery img { 
+            height: 210px; 
+            border-radius: 20px;
+        } 
+        .bottom-gallery { 
+            padding-top: 100px;
+            padding-bottom: 160px;
+        }
+        .bottom-gallery:before { 
+            width: 500px;
+            height: 500px;  
+            left: -225px; 
+        }
+    
+        .bottom-gallery:after { 
+            width: 500px;
+            height: 500px; 
+            bottom: 80px;
+            right: -300px; 
+        }
+        .bottom-gallery span.snape-two {
+            width: 90px;
+            height: 90px; 
+            bottom: 1%;
+            right: 15%;
+        }
+        .section-title h1 {
+            font-size: 40px;
+            margin-bottom: 0;
+        }
+    
+        .section-title span { 
+            margin-top: 30px;
+            line-height: 26px; 
+        }
+        .slider-item img {
+            width: 65px;
+            height: 65px;
+            margin-bottom: 25px;
+        }
+        .slider-item h4 {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .slider-item span {
+            width: 20px;
+            height: 20px;
+            line-height: 20px;
+            font-size: 9px;
+            margin-top: -2px;
+        }
+        .slider-item h5 {
+            font-size: 12px;
+        }
+        .slider-item h5 ul li {
+            margin-left: 0px;
+        }
+        .slider-item h5 b {
+            letter-spacing: 3px;
+        }
+        .slider-item h5 ul li svg {
+            width: 15px;
+        }
+        .slider-item h5 ul li.last-icon svg {
+            width: 95px;
+            height: 110px;
+            transform: scale(.2); 
+            top: -41px;
+            left: -38px;
+        }
+        .slider-item {
+            padding: 35px;  
+        }
+        .slider-item img.snape {
+            margin-top: 10px;
+            margin-bottom: 25px;
+        }
+        .slider-item p {
+            font-size: 14px;
+            padding-right: 0px;
+            margin: 0;
+        }
+        .works-blk.active {
+            padding-top: 90px; 
+        }
+        .works-blk.active h5 {
+            padding-bottom: 80px;
+        }
+        button.slick-arrow {
+            left: 0;
+            transform: scale(.4) translateY(-50%);
+            top: 30%;
+        }
+        button.slick-next.slick-arrow { 
+            right: -20px;
+        }
+        .section-title {
+            margin-bottom: 60px;
+        }
+        .features-area { 
+            padding-top: 175px;
+            padding-bottom: 50px;
+            background-size: cover;
+        }
+        .feature-blk img {
+            margin-bottom: 40px;
+            height: 65px;
+        }
+        .feature-blk h4 {
+            font-size: 17px;
+            margin-bottom: 20px;
+        }
+        .feature-blk {
+            padding: 20px;
+            padding-top: 51px;
+        }
+        .testimonail-area { 
+            margin-bottom: 0;
+        }
+        .footer-menu ul li a { 
+            margin-left: 20px; 
+        }
+        .copy-texts p { 
+            font-size: 13px;
+        }
+        .footer-content {
+            padding: 60px 0;
+        }
+        .copy-texts { 
+            padding: 20px 0;
+        }
+        .footer-logo a img {
+            width: 90%;
+        }
+        .Image-preview {
+            margin: 50px 0;
+        }
+        .geller-blk.mt-225 {
+            margin-top: 100px;
+        }
+        .works-blk {
+            padding-top: 50px; 
+        }
+        .step-items .img.sec span { 
+            bottom: -40px; 
+            transform: scale(.6);
+        } 
+        .main-steps .middle {
+            margin-top: 50px;
+        }
+        .cd-image-label { 
+            bottom: 40px;
+            right: 65px; 
+            width: 140px; 
+            height: 60px;
+            line-height: 62px; 
+        } 
+        .paying-detailse h3 {
+            font-size: 36px;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+        .paying-detailse h5 {
+            font-size: 16px;
+        } 
+        .paying-detailse h5 .price span { 
+            padding: 13px 21px;
+            margin-left: 20px;
+        } 
+        .paying-detailse h5 a {
+            min-width: 200px;
+            height: 50px;
+            line-height: 50px;
+            font-size: 14px;
+        }
+        .paying-detailse p {
+            margin-top: 40px;
+            margin-bottom: 50px;
+        }
+        .paying-detailse li h4 { 
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        .paying-detailse li .nice-select {
+            width: 210px;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 25px;
+            font-size: 16px;
+            margin-right: 20px;
+        }
+        .paying-detailse li .nice-select:after {
+            border-bottom: 2px solid #B6B6B8;
+            border-right: 2px solid #B6B6B8;
+            height: 10px;
+            margin-top: -6px;
+            right: 30px;
+            top: 50%;
+            width: 10px;
+        }
+        .paying-detailse li .nice-select ul li { 
+            font-size: 18px; 
+        }
+        .paying-detailse li input {
+            width: 210px;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 25px;
+            font-size: 16px;
+        }
+        .paying-detailse a.theme-btn { 
+            margin-top: 60px;
+        } 
+        .tab-pane {
+            height: 450px;
+            border-radius: 20px;
+        } 
+        .img-gellery .nav li.nav-item {
+            width: 110px;
+            margin: 0 10px;
+            height: 110px;
+            border-radius: 15px;
+            margin-top: 20px;
+        }
+        ul#pills-tab {
+            justify-content: center;
+        }
+        .product-detailse {
+            padding-top: 100px;
+            padding-bottom: 70px;
+        }
+        .order-steps {
+            padding: 200px 0;
+            padding-bottom: 150px;
+        }
+        .order-single-blk {
+            padding: 30px 20px;
+            border-radius: 15px;
+        }
+        .order-single-blk span {
+            height: 70px;
+            min-width: 70px;
+            line-height: 70px;
+            font-size: 18px;
+            margin-right: 20px;
+        }
+        .addOns-area .mt-100 {
+            margin-top: 50px;
+        }
+        .addOns-blk h4 {
+            font-size: 16px;
+            padding: 30px 0;
+        }
+        .addOns-area {
+            margin-top: 60px;
+        }
+        .img-gellery.product-imgs {
+            padding-right: 50px;
+        }
+        .gallery-area.addOns {
+            padding: 202px 0;
+            padding-top: 220px;
+        }
+
+
+
+
+        .Bredcramp-area { 
+            height: 400px; 
+        }
+    
+        .bradcramp-text h1 {
+            font-size: 60px; 
+        }
+        .how-its-work.about .works-blk h5 {
+            margin: 0;
+            margin-top: 30px;
+            font-size: 22px;
+            padding-bottom: 15px;
+        }
+        .how-its-work.about .works-blk p {
+            margin: 0;
+            padding: 0 60px;
+            padding-bottom: 60px;
+        }
+        .gallery-area.gtwo.detailse.about .gallery-wrp {
+            padding: 0;
+            width: unset;
+            padding-left: 100px;
+        }
+        .how-its-work.about {
+            padding-top: 220px;
+        }
+        .how-its-work.about:before { 
+            width: 500px;
+            height: 500px; 
+            top: 15%;
+            left: -300px; 
+        }
+        .how-its-work.about:after {
+            width: 485px;
+            height: 485px;
+            top: 5%;
+            right: -300px;
+        }
+        .how-its-work.about .top-steps {
+            height: 520px;
+        } 
+        .point-img img {
+            width: 100%;
+        }
+        .point-blk .point-wrp h4 {
+            font-size: 28px; 
+            line-height: 30px;
+            margin-bottom: 20px;
+        }
+        .point-blk span {
+            font-size: 24px;
+            min-width: 70px;
+            height: 70px;
+            line-height: 70px;
+            margin-right: 25px;
+            margin-top: -20px;
+        }
+        .point-blk {
+            padding-right: 31px;
+            margin-bottom: 50px;
+        }
+        .point-blk .point-wrp h4 {
+            font-size: 18px;
+            line-height: 22px;
+            margin-bottom: 10px;
+        }
+        .artis { 
+            padding-bottom: 30px; 
+        }
+        .artis h5 {
+            font-size: 18px;
+            margin-top: 20px;
+            margin-bottom: 5px;
+        }
+        .gallery-area.gtwo.detailse.about {
+            background-size: 100% 100%;
+        }
+        .artist-area.how-its-work.detailse.about:after {
+            width: 320px;
+            height: 320px;
+            top: 10%;
+            right: -200px;
+        }
+        .how-its-work.detailse.about {
+            padding-top: 50px;
+        }
+        
+        .how-its-work.detailse.about .top-steps {
+            height: 370px;
+        }
+        
+        .how-its-work.detailse.about .works-blk img {
+            width: 65px;
+            height: 60px;
+        }
+        
+        .how-its-work.detailse.about .works-blk h5 {
+            font-size: 17px;
+        }
+        
+        .how-its-work.detailse.about .works-blk p {
+            padding: 20px;
+            padding-bottom: 30px;
+        }
+        .how-its-work.detailse.about span.snape-one {
+            width: 50px;
+            height: 50px;
+            top: 5%;
+        }
+        .how-its-work.detailse.about:before {
+            width: 280px;
+            height: 280px;
+            top: 20%;
+            left: -100px;
+        }
+        .how-its-work.detailse.about:after {
+            width: 350px;
+            height: 350px;
+            top: 7%;
+            right: -230px;
+        }
+        .gallery-area.gtwo.detailse.about .gallery-wrp {
+            padding: 0; 
+            padding-left: 30px;
+        }
+        .artist-area.how-its-work.detailse.about .section-title h1 {
+            font-size: 40px !important;
+            margin-bottom: 0px;
+        } 
+        .paying-detailse .card .card-header button {
+            padding: 15px 30px;
+            font-size: 20px;
+        } 
+        .paying-detailse .card .card-header button.btn.btn-link.collapsed span { 
+            right: 50px;
+            top: 16px;
+        }
+        .paying-detailse .card .card-header button.btn.btn-link span { 
+            right: 50px;
+            top: 16px;
+        }  
+        .paying-detailse .card .card-body h3 {
+            font-size: 16px;
+            margin-bottom: 30px;
+        }
+        .paying-detailse .card .card-body .price-numbers ul li a {
+            padding: 0;
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+            margin-right: 10px;
+            font-size: 16px;
+            margin-bottom: 0;
+        }
+        .paying-detailse .card .card-body {
+            padding: 0 35px;
+            padding-top: 30px;
+        }
+        .paying-detailse .card .card-body ul {
+            margin-bottom: 40px;
+        }
+        .paying-detailse .card .card-body ul li a {
+            padding: 0px 35px;
+            border-radius: 100px;
+            height: 40px;
+            line-height: 40px;
+            margin-right: 5px;
+            margin-bottom: 8px;
+            font-size: 11px;
+        }
+        .addons-detailse i {
+            width: 100%;
+            padding: 40px 50px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        .addons-detailse a {
+            font-size: 20px;
+            padding: 20px 50px;
+            margin-top: 10px;
+        }
+        .paying-detailse form textarea {
+            min-height: 170px;
+            max-height: 170px;
+            border-radius: 20px;
+            padding: 15px;
+            padding-left: 57px;
+        }
+        .paying-detailse form .f-btns a {
+            margin-top: 40px;
+        }
+        .paying-detailse form span { 
+            padding: 15px 0px;
+            padding-left: 55px; 
+        }
+        .paying-detailse .card {
+            border-radius: 15px;
+            margin-bottom: 40px;
+        }  
+        .addons-detailse { 
+            border-radius: 15px;
+            margin-bottom: 40px;
+        }
+        .bottom-gallery img.full-img {
+            height: 450px;
+        } 
+        .cart-area {
+            padding: 100px 0;
+        }
+        .single-cart table thead tr th { 
+            padding-bottom: 30px;
+        }
+        .single-cart table tbody tr td {
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+        .single-cart table tbody tr td img {
+            width: 90px;
+            height: 90px;
+            margin-right: 20px;
+        }
+        .single-cart table thead tr th:first-child {
+            padding-left: 50px;
+        }
+        .single-cart table thead tr th:last-child {
+            padding-right: 50px;
+        }
+        .single-cart table tbody tr td:first-child {
+            padding-left: 50px;
+        }
+        .single-cart table tbody tr td:last-child {
+            padding-right: 50px;
+        }
+        .single-cart table tbody tr td .cart-wrp h5 { 
+            font-size: 18px;
+        } 
+        .single-cart table tbody tr td .cart-wrp h5 span { 
+            margin-top: 5px;
+            font-size: 15px;
+        }
+        .nice-number button {
+            height: 43px;
+            width: 43px; 
+            font-size: 30px;
+            line-height: 39px;
+        }
+        .nice-number input[type="number"] {
+            min-width: 55px; 
+        }
+        .single-cart table tbody tr td a.trash {
+            height: 50px;
+            width: 50px;
+            line-height: 50px; 
+            margin-left: 0;
+        }
+        .single-cart table { 
+            margin-bottom: 40px;
+        }
+        .total-costs h4 {
+            margin: 0;
+            height: 50px;
+            line-height: 50px;
+            width: 290px;
+            border-radius: 15px;
+            font-size: 14px;
+        }
+        .total-costs h4 span {
+            margin-left: 50px;
+        }
+        .single-cart a.theme-btn.inactive {
+            margin-right: 10px; 
+        } 
+    .services-contain p {
+        padding-bottom: 10px;
+        font-size: 16px;
+        line-height: 30px;
+    } 
+    .services-area {
+        padding-top: 120px; 
+    } 
+    .services-contain h2 {
+        font-size: 22px;
+        margin-bottom: 30px;
+    } 
+    .services-contain {
+        margin-bottom: 80px;
+    } 
+    .accordion-area {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    } 
+   .btn.btn-link.collapsed {
+        font-size: 16px;
+        padding: 0px 40px;
+    }
+    .btn.btn-link { 
+        font-size: 16px;
+        padding: 0px 40px;
+    }
+      .accordion-area div#accordion span { 
+        right: 40px;
+        font-size: 30px;  
+      }
+      .card-body p {
+        padding: 10px 0;
+        margin-left: 50px;
+      } 
+      .card-body p:last-child {
+        padding-top: 0px;
+      } 
+    .contact-from p { 
+        font-weight: 400; 
+        margin-bottom: 15px;
+        margin-left: 30px;
+    }
+      
+    .contact-from ::placeholder { 
+        font-size: 16px; 
+        
+    }
+    .contact-from input {
+        border-radius: 50px;
+        padding: 10px 30px;
+        margin-bottom: 30px;
+    }
+    .contact-from textarea.message {
+        border-radius: 20px;
+        padding: 20px 30px;
+        min-height: 170px;
+    }
+    .contact-btn.btn {
+        height: 60px;
+        width: 220px;
+        line-height: 60px;
+        padding: 0px;
+    }
+    textarea.message {
+        margin-bottom: 40px;
+    }
+    .Contact-us-area {
+        padding: 70px 0px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    body { 
+        font-size: 14px;
+        }
+        .header-main {
+            padding: 30px 0;
+        }
+        .logo-area a img {
+            width: 340px;
+            margin: auto;
+            display: block;
+        }
+        .menu-area nav ul li a {
+            font-size: 17px;
+            margin: 0 10px;
+        }
+        .header-action ul li .nice-select {
+            display: none;
+        }
+        .header-action ul li a i {
+            margin-right:0px;
+            font-size: 20px;
+        } 
+        .menu-area nav ul li a:after { 
+            height: 5px; 
+            bottom: -15px; 
+        }
+        .how-its-work .section-title h1 {
+            font-size: 44px !important;
+            margin-bottom: 5px;
+        }
+        .section-title p {
+            font-size: 18px;
+        }
+        .works-blk img {
+            height: 60px;
+        }  
+        .works-blk h5 {
+            padding: 0 20px;
+            padding-bottom: 25px;
+            font-size: 18px;
+            margin-top: 35px;
+        }
+        a.theme-btn {
+            height: 40px;
+            width: 170px;
+            line-height: 45px;
+            font-size: 13px;
+        }
+        .works-blk a {
+            bottom: -20px;
+        }
+        .works-blk:hover {
+            padding-top: 90px; 
+        }
+        .how-its-work span.snape-two {
+            width: 90px;
+            height: 90px; 
+            top: 31%; 
+            right: 4%;
+        }
+        .top-steps {
+            height: 410px;
+        }
+        .how-its-work span.snape-one {
+            width: 80px;
+            height: 80px;
+            top: 3%;
+        }
+        .how-its-work {
+            padding-top: 110px;
+        }
+        .how-its-work:before {
+            width: 300px;
+            height: 300px;
+            top: 8%;
+            left: -150px;
+            border-radius: 50%;
+        }
+        .how-its-work:after {
+            width: 400px;
+            height: 400px;
+            top: 4%;
+            right: -200px;
+        }
+        .main-steps {
+            margin-top: 50px;
+        }
+        .step-desc {
+            padding-left: 25px;
+            padding-right: 50px;
+            padding-top: 35px;
+            padding-bottom: 10px;
+            margin-bottom: 40px;
+        }
+        .step-desc h4 {
+            font-size: 17px;
+            margin-bottom: 10px;
+        }
+        .works-blk:hover h5 {
+            padding-bottom: 80px;
+        }
+        .gallery-wrp {
+            width: 90%;
+            padding-right: 0;
+            text-align: center;
+            margin-top: 50px;
+        }
+        .gallery-area {
+            padding: 202px 0;
+            background-size: cover;
+            background-position: center left;
+            padding-top: 185px;
+        }
+        .gallery-wrp h3 {
+            font-size: 24px;
+            margin-bottom: 18px;
+        }
+        
+        .gallery-wrp p {
+            margin-bottom: 40px;
+        } 
+        .container, .container-lg, .container-md, .container-sm, .container-xl {
+            max-width: 1450px;
+        }
+        .sm-imgs img {
+            width: 100%;
+            height: 160px;
+            margin-bottom: 0;
+        }
+        .big-img {
+            margin-bottom: 30px;
+        }
+        .big-img img { 
+            height: 430px; 
+        }
+        .cd-image-container img { 
+            width: 100%;
+            height: 460px; 
+        }
+        .cd-handle img {
+            width: 100%;
+            height: 100%;
+        }
+        .cd-handle {
+            height: 100px;
+            width: 100px;
+            left: 50%;
+            top: 50%;
+            margin-left: -52px;
+            margin-top: -60px;
+        }
+        .bottom-gallery img { 
+            height: 210px; 
+            border-radius: 20px;
+            object-position: top;
+        } 
+        .bottom-gallery { 
+            padding-top: 100px;
+            padding-bottom: 160px;
+        }
+        .bottom-gallery:before { 
+            width: 500px;
+            height: 500px;  
+            left: -225px; 
+        }
+    
+        .bottom-gallery:after { 
+            width: 500px;
+            height: 500px; 
+            bottom: 80px;
+            right: -300px; 
+        }
+        .bottom-gallery span.snape-two {
+            width: 90px;
+            height: 90px; 
+            bottom: 1%;
+            right: 20%;
+        }
+        .section-title h1 {
+            font-size: 32px;
+            margin-bottom: 0;
+        }
+        .section-title span {
+            margin-top: 15px;
+            line-height: 26px;
+        }
+        .slider-item img {
+            width: 65px;
+            height: 65px;
+            margin-bottom: 25px;
+        }
+        .slider-item h4 {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .slider-item span {
+            width: 20px;
+            height: 20px;
+            line-height: 20px;
+            font-size: 9px;
+            margin-top: -2px;
+        }
+        .slider-item h5 {
+            font-size: 12px;
+        }
+        .slider-item h5 ul li {
+            margin-left: 0px;
+        }
+        .slider-item h5 b {
+            letter-spacing: 3px;
+        }
+        .slider-item h5 ul li svg {
+            width: 15px;
+        }
+        .slider-item h5 ul li.last-icon svg {
+            width: 95px;
+            height: 110px;
+            transform: scale(.2); 
+            top: -41px;
+            left: -38px;
+        }
+        .slider-item {
+            padding: 35px;  
+        }
+        .slider-item img.snape {
+            margin-top: 10px;
+            margin-bottom: 25px;
+        }
+        .slider-item p {
+            font-size: 14px;
+            padding-right: 0px;
+            margin: 0;
+        }
+        .works-blk.active {
+            padding-top: 90px; 
+        }
+        .works-blk.active h5 {
+            padding-bottom: 80px;
+        }
+        button.slick-arrow {
+            left: 0;
+            transform: scale(.4) translateY(-50%);
+            top: 30%;
+        }
+        button.slick-next.slick-arrow { 
+            right: -20px;
+        }
+        .section-title {
+            margin-bottom: 60px;
+        }
+        .features-area { 
+            padding-top: 175px;
+            padding-bottom: 50px;
+            background-size: cover;
+        }
+        .feature-blk img {
+            margin-bottom: 30px;
+            height: 50px;
+        }
+        .feature-blk h4 {
+            font-size: 17px;
+            margin-bottom: 20px;
+        }
+        .middle img {
+            height: 500px;
+            object-position: top;
+        }
+        .feature-blk {
+            padding: 25px;
+            padding-top: 51px;
+            padding-bottom: 30px;
+        }
+        .testimonail-area { 
+            margin-bottom: 0;
+        }
+        .footer-menu ul li a { 
+            margin-left: 20px; 
+        }
+        .copy-texts p { 
+            font-size: 13px;
+        }
+        .footer-content {
+            padding: 60px 0;
+        }
+        .copy-texts {
+            padding: 20px 0;
+            text-align: center;
+        }
+        .footer-logo a img {
+            width: 300px;
+            margin: auto;
+            display: block;
+        }
+        .Image-preview {
+            margin-top: -25px;
+            margin-bottom: 80px;
+        }
+        .geller-blk.mt-225 {
+            margin-top: 100px;
+        }
+        .works-blk {
+            padding-top: 50px; 
+        }
+        .step-items .img.sec span { 
+            bottom: -40px; 
+            transform: scale(.6);
+            left: -2%;
+        } 
+        .main-steps .middle {
+            margin-top: 50px;
+        }
+        .cd-image-label { 
+            bottom: 40px;
+            right: 65px; 
+            width: 140px; 
+            height: 60px;
+            line-height: 62px; 
+        }
+        .step-items .img.sec img {
+            height: unset;
+        }
+        .paying-detailse h3 {
+            font-size: 36px;
+            margin-top: 50px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .paying-detailse h5 {
+            font-size: 16px;
+        } 
+        .paying-detailse h5 .price span { 
+            padding: 13px 21px;
+            margin-left: 20px;
+        } 
+        .paying-detailse h5 a {
+            min-width: 200px;
+            height: 50px;
+            line-height: 50px;
+            font-size: 14px;
+        }
+        .paying-detailse p {
+            margin-top: 40px;
+            margin-bottom: 50px;
+        }
+        .paying-detailse li h4 { 
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        .paying-detailse li .nice-select {
+            width: 240px;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 25px;
+            font-size: 16px;
+            margin-right: 20px;
+        }
+        .paying-detailse li .nice-select:after {
+            border-bottom: 2px solid #B6B6B8;
+            border-right: 2px solid #B6B6B8;
+            height: 10px;
+            margin-top: -6px;
+            right: 30px;
+            top: 50%;
+            width: 10px;
+        }
+        .paying-detailse li .nice-select ul li { 
+            font-size: 18px; 
+        }
+        .paying-detailse li input {
+            width: 210px;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 25px;
+            font-size: 16px;
+        }
+        .paying-detailse a.theme-btn { 
+            margin-top: 60px;
+        } 
+        .tab-pane {
+            height: 450px;
+            border-radius: 20px;
+        } 
+        .img-gellery .nav li.nav-item {
+            width: 110px;
+            margin: 0 10px;
+            height: 110px;
+            border-radius: 15px;
+            margin-top: 20px;
+        }
+        ul#pills-tab {
+            justify-content: center;
+        }
+        .product-detailse {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        }
+        .order-steps {
+            padding: 200px 0;
+            padding-bottom: 150px;
+        }
+        .order-single-blk {
+            padding: 30px 20px;
+            border-radius: 15px;
+        }
+        .order-single-blk span {
+            height: 70px;
+            min-width: 70px;
+            line-height: 70px;
+            font-size: 18px;
+            margin-right: 20px;
+        }
+        .addOns-area .mt-100 {
+            margin-top: 50px;
+        }
+        .addOns-blk h4 {
+            font-size: 16px;
+            padding: 30px 0;
+        }
+        .addOns-area {
+            margin-top: 60px;
+        }
+        .img-gellery.product-imgs {
+            padding-right: 0px;
+        }
+        .gallery-area.addOns {
+            padding: 202px 0;
+            padding-top: 220px;
+        }
+        .paying-detailse {
+            width: 500px;
+            margin: auto;
+        } 
+        .Bredcramp-area { 
+            height: 350px; 
+        }
+    
+        .bradcramp-text h1 {
+            font-size: 40px; 
+        }
+        .how-its-work.about .works-blk h5 {
+            margin: 0;
+            margin-top: 30px;
+            font-size: 22px;
+            padding-bottom: 15px;
+        }
+        .how-its-work.about .works-blk p {
+            margin: 0;
+            padding: 0 60px;
+            padding-bottom: 60px;
+        }
+        .gallery-area.gtwo.detailse.about .gallery-wrp {
+            padding: 0;
+            width: unset;
+            padding-left: 100px;
+        }
+        .how-its-work.about {
+            padding-top: 220px;
+        }
+        .how-its-work.about:before { 
+            width: 500px;
+            height: 500px; 
+            top: 15%;
+            left: -300px; 
+        }
+        .how-its-work.about:after {
+            width: 485px;
+            height: 485px;
+            top: 5%;
+            right: -300px;
+        }
+        .how-its-work.about .top-steps {
+            height: 520px;
+        } 
+        .point-img img {
+            width: 100%;
+        }
+        .point-blk .point-wrp h4 {
+            font-size: 28px; 
+            line-height: 30px;
+            margin-bottom: 20px;
+        }
+        .point-blk span {
+            font-size: 24px;
+            min-width: 70px;
+            height: 70px;
+            line-height: 70px;
+            margin-right: 25px;
+            margin-top: -20px;
+        }
+        .point-blk {
+            padding-right: 21px;
+            margin-bottom: 50px;
+        }
+        .point-blk .point-wrp h4 {
+            font-size: 18px;
+            line-height: 22px;
+            margin-bottom: 10px;
+        }
+        .artis { 
+            padding-bottom: 30px; 
+        }
+        .artis h5 {
+            font-size: 18px;
+            margin-top: 20px;
+            margin-bottom: 5px;
+        }
+        .gallery-area.gtwo.detailse.about {
+            background-size: 100% 100%;
+        }
+        .artist-area.how-its-work.detailse.about:after {
+            width: 320px;
+            height: 320px;
+            top: 10%;
+            right: -200px;
+        }
+        .how-its-work.detailse.about {
+            padding-top: 50px;
+        }
+        
+        .how-its-work.detailse.about .top-steps {
+            height: 370px;
+        }
+        
+        .how-its-work.detailse.about .works-blk img {
+            width: 65px;
+            height: 60px;
+        }
+        
+        .how-its-work.detailse.about .works-blk h5 {
+            font-size: 17px;
+        }
+        
+        .how-its-work.detailse.about .works-blk p {
+            padding: 20px;
+            padding-bottom: 30px;
+        }
+        .how-its-work.detailse.about span.snape-one {
+            width: 50px;
+            height: 50px;
+            top: 5%;
+        }
+        .how-its-work.detailse.about:before {
+            width: 280px;
+            height: 280px;
+            top: 20%;
+            left: -100px;
+        }
+        .how-its-work.detailse.about:after {
+            width: 350px;
+            height: 350px;
+            top: 7%;
+            right: -230px;
+        }
+        .gallery-area.gtwo.detailse.about .gallery-wrp {
+            padding: 0;
+            text-align: left;
+        } 
+        .artist-area.how-its-work.detailse.about .section-title h1 {
+            font-size: 32px !important;
+            margin-bottom: 0px;
+        }
+        .artist-area.how-its-work.detailse.about .artis img {
+            height: unset;
+        } 
+        .how-its-work.detailse.about .middle {
+            margin: 0;
+        } 
+        .paying-detailse .card .card-header button {
+            padding: 15px 30px;
+            font-size: 20px;
+        } 
+        .paying-detailse .card .card-header button.btn.btn-link.collapsed span { 
+            right: 50px;
+            top: 16px;
+        }
+        .paying-detailse .card .card-header button.btn.btn-link span { 
+            right: 50px;
+            top: 16px;
+        }  
+        .paying-detailse .card .card-body h3 {
+            font-size: 16px;
+            margin-bottom: 30px;
+            text-align: left;
+        }
+        .paying-detailse .card .card-body .price-numbers ul li a {
+            padding: 0;
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+            margin-right: 10px;
+            font-size: 16px;
+            margin-bottom: 0;
+        }
+        .paying-detailse .card .card-body {
+            padding: 0 35px;
+            padding-top: 30px;
+        }
+        .paying-detailse .card .card-body ul {
+            margin-bottom: 40px;
+        }
+        .paying-detailse .card .card-body ul li a {
+            padding: 0px 35px;
+            border-radius: 100px;
+            height: 40px;
+            line-height: 40px;
+            margin-right: 5px;
+            margin-bottom: 8px;
+            font-size: 11px;
+        }
+        .addons-detailse i {
+            width: 100%;
+            padding: 40px 50px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        .addons-detailse a {
+            font-size: 20px;
+            padding: 20px 50px;
+            margin-top: 10px;
+        }
+        .paying-detailse form textarea {
+            min-height: 170px;
+            max-height: 170px;
+            border-radius: 20px;
+            padding: 15px;
+            padding-left: 57px;
+        }
+        .paying-detailse form .f-btns a {
+            margin-top: 15px;
+        }
+        .paying-detailse form span { 
+            padding: 15px 0px;
+            padding-left: 55px; 
+        }
+        .paying-detailse .card {
+            border-radius: 15px;
+            margin-bottom: 40px;
+        } 
+        .addons-detailse { 
+            border-radius: 15px;
+            margin-bottom: 40px;
+        }
+        .Image-preview.detailse {
+            margin-bottom: 50px;
+            margin-top: 30px;
+        }
+
+        .mobile-menu { 
+            padding-top: 50px;  
+          }
+          .container, .container-md, .container-sm {
+            max-width: 720px;
+        } 
+        .cart-area {
+            padding: 100px 0;
+        }
+        .single-cart table thead tr th { 
+            padding-bottom: 30px;
+        }
+        .single-cart table tbody tr td {
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+        .single-cart table tbody tr td img {
+            width: 60px;
+            height: 60px;
+            margin-right: 10px;
+        }
+        .single-cart table thead tr th:first-child {
+            padding-left: 0px;
+        }
+        .single-cart table thead tr th:last-child {
+            padding-right: 0px;
+        }
+        .single-cart table tbody tr td:first-child {
+            padding-left: 0px;
+        }
+        .single-cart table tbody tr td:last-child {
+            padding-right: 0px;
+        }
+        .single-cart table tbody tr td .cart-wrp h5 { 
+            font-size: 14px;
+        } 
+        .single-cart table tbody tr td .cart-wrp h5 span { 
+            margin-top: 5px;
+            font-size: 13px;
+        }
+        .nice-number button {
+            height: 30px;
+            width: 30px;
+            font-size: 24px;
+            line-height: 28px;
+        }
+        .nice-number input[type="number"] {
+            min-width: 40px; 
+        }
+        .single-cart table tbody tr td a.trash {
+            height: 35px;
+            width: 35px;
+            line-height: 35px;
+            margin-left: 15px;
+        }
+        .single-cart table { 
+            margin-bottom: 40px;
+        }
+        .total-costs h4 {
+            margin: 0;
+            height: 50px;
+            line-height: 50px;
+            width: 240px;
+            border-radius: 10px;
+            font-size: 14px;
+        }
+        .total-costs h4 span {
+            margin-left: 50px;
+        } 
+        .services-area {
+            padding-top: 80px; 
+        } 
+        .single-cart a.theme-btn.inactive {
+            margin-right: 10px; 
+        }
+        .services-contain h2 {
+            font-size: 22px;
+            margin-bottom: 30px;
+        } 
+        .services-contain p {
+            padding-bottom: 0px;
+            font-size: 14px;
+            line-height: 24px;
+        }
+        .services-contain {
+            margin-bottom: 80px;
+        } 
+        .accordion-area {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        } 
+       .btn.btn-link.collapsed {
+            font-size: 16px;
+            padding: 0px 40px;
+        }
+        .btn.btn-link { 
+            font-size: 16px;
+            padding: 0px 40px;
+        }
+          .accordion-area div#accordion span { 
+            right: 40px;
+            font-size: 30px;  
+          }
+          .card-body p {
+            padding: 10px 0;
+            margin-left: 50px;
+          } 
+          .card-body p:last-child {
+            padding-top: 0px;
+          } 
+        .contact-from p { 
+            font-weight: 400; 
+            margin-bottom: 15px;
+            margin-left: 30px;
+        }
+          
+        .contact-from ::placeholder { 
+            font-size: 16px; 
+            
+        }
+        .contact-from input {
+            border-radius: 50px;
+            padding: 10px 30px;
+            margin-bottom: 30px;
+        }
+        .contact-from textarea.message {
+            border-radius: 20px;
+            padding: 20px 30px;
+            min-height: 170px;
+        }
+        .contact-btn.btn {
+            height: 60px;
+            width: 220px;
+            line-height: 60px;
+            padding: 0px;
+        }
+        textarea.message {
+            margin-bottom: 40px;
+        }
+        .Contact-us-area {
+            padding: 70px 0px;
+        }
+
+
+
+
+}
+
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    body { 
+        font-size: 14px;
+        }
+        .header-main {
+            padding: 10px 0;
+        }
+        .logo-area a img {
+            width: 100%;
+            margin: auto;
+            display: block;
+        }
+        .menu-area nav ul li a {
+            font-size: 17px;
+            margin: 0 10px;
+        }
+        .header-action ul li .nice-select {
+            display: none;
+        }
+        .header-action ul li a i {
+            margin-right: 0;
+            font-size: 20px;
+        }
+        .header-top p span {
+            margin: 5px;
+        }
+        .header-top p { 
+            padding: 15px 0;
+            font-size: 13px;
+        }
+        .menu-area nav ul li a:after { 
+            height: 5px; 
+            bottom: -15px; 
+        }
+        .how-its-work .section-title h1 {
+            font-size: 32px !important;
+            margin-bottom: 2px;
+        }
+        .section-title p {
+            font-size: 14px;
+        }
+        .section-title p {
+            font-size: 16px;
+        }
+        a.humg-btn { 
+            transform: scale(.7);
+        }
+        .works-blk img {
+            height: 60px;
+        }  
+        .works-blk h5 {
+            padding: 0 10px;
+            padding-bottom: 25px;
+            font-size: 16px;
+            margin-top: 35px;
+        }
+        a.theme-btn {
+            height: 40px;
+            width: 100%;
+            line-height: 45px;
+            font-size: 13px;
+        }
+        .works-blk a {
+            bottom: -20px;
+        }
+        .works-blk:hover {
+            padding-top: 90px; 
+        }
+        .how-its-work span.snape-two {
+            width: 90px;
+            height: 90px; 
+            top: 31%; 
+            right: 4%;
+        }
+        .top-steps {
+            height: auto;
+        }
+        .how-its-work span.snape-one {
+            width: 80px;
+            height: 80px;
+            top: 5%;
+            transform: scale(.6);
+        }
+        .how-its-work {
+            padding-top: 70px;
+        }
+        .how-its-work:before {
+            width: 300px;
+            height: 300px;
+            top: 8%;
+            left: -150px;
+            border-radius: 50%; 
+            transform: scale(.6);
+        } 
+        .how-its-work:after {
+            width: 400px;
+            height: 400px;
+            top:2%;
+            right: -200px;
+            transform: scale(.6);
+        }
+        .main-steps {
+            overflow: hidden;
+            margin-top: 0px; 
+            width: 100%;
+            margin-top: 50px;
+            margin-bottom: 45px;
+        }  
+        .step-items {
+            box-shadow: 0px 15px 20px -1px #00000008;
+            border-radius: 25px;
+        }
+        .step-desc {
+            padding-left: 25px;
+            padding-right: 50px;
+            padding-top: 35px;
+            padding-bottom: 10px;
+            margin-bottom: 40px;
+        }
+        .m-b {
+            margin-bottom: 10px;
+        }
+        .step-desc h4 {
+            font-size: 17px;
+            margin-bottom: 10px;
+        }
+        .works-blk:hover h5 {
+            padding-bottom: 80px;
+        }
+        .gallery-wrp {
+            width: 90%;
+            padding-right: 0;
+            text-align: center;
+            margin-top: 35px;
+        }
+        .gallery-area.gtwo .big-img {
+            margin: 0;
+        }
+        .bottom-gallery .mt-30 {
+            margin-top: 10px;
+        }
+        .gallery-area {
+            padding: 202px 0;
+            background-size: cover;
+            background-position: center left;
+            padding-top: 185px;
+        }
+        .gallery-wrp h3 {
+            font-size: 18px;
+            margin-bottom: 18px;
+        }
+        .gallery-wrp p {
+            margin-bottom: 15px;
+        }
+        .container, .container-lg, .container-md, .container-sm, .container-xl {
+            max-width: 1450px;
+        }
+        .sm-imgs img {
+            width: 100%;
+            height: 80px;
+            margin-bottom: 0;
+            border-radius: 10px;
+        }
+        .big-img {
+            margin-bottom: 30px;
+        }
+        .big-img img {
+            height: 240px;
+            border-radius: 20px;
+        }
+        .cd-image-container img {
+            width: 100%;
+            height: 180px;
+        }
+        .cd-image-container { 
+            border-radius: 15px;
+        }
+        .cd-handle img {
+            width: 100%;
+            height: 100%;
+        }
+        .cd-handle {
+            height: 50px;
+            width: 50px;
+            left: 50%;
+            top: 50%;
+            margin-left: -26px;
+            margin-top: -20px; 
+        }
+        .bottom-gallery img { 
+            height: 210px; 
+            border-radius: 20px;
+            object-position: top;
+        } 
+        .bottom-gallery { 
+            padding-top: 100px;
+            padding-bottom: 160px;
+        }
+        .bottom-gallery:before {
+            width: 500px;
+            height: 500px;
+            left: -215px;
+            transform: scale(.5);
+            top: -125px;
+            right: auto;
+        }
+        .bottom-gallery:after {
+            width: 500px;
+            height: 500px;
+            bottom: -20px;
+            right: -300px;
+            transform: scale(.7);
+        }
+        .slick-list {
+            left: 0 !important;
+            overflow: unset;
+            padding: 0 0;
+        }
+        .testimonial-slider {
+            height: 400px;
+        } 
+        .bottom-gallery span.snape-two {
+            width: 60px;
+            height: 60px;
+            bottom: 2%;
+            right: 25%;
+        }
+        .section-title h1 {
+            font-size: 28px;
+            margin-bottom: 0;
+        }
+        .section-title span {
+            margin-top: 15px;
+            line-height: 26px;
+        }
+        .slider-item img {
+            width: 65px;
+            height: 65px;
+            margin-bottom: 25px;
+        }
+        .slider-item h4 {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .slider-item span {
+            width: 20px;
+            height: 20px;
+            line-height: 20px;
+            font-size: 9px;
+            margin-top: -2px;
+        }
+        .slider-item h5 {
+            font-size: 12px;
+        }
+        .slider-item h5 ul li {
+            margin-left: 0px;
+        }
+        .slider-item h5 b {
+            letter-spacing: 3px;
+        }
+        .slider-item h5 ul li svg {
+            width: 15px;
+        }
+        .slider-item h5 ul li.last-icon svg {
+            width: 95px;
+            height: 110px;
+            transform: scale(.2); 
+            top: -41px;
+            left: -38px;
+        }
+        .slider-item {
+            padding: 35px;  
+        }
+        .slider-item img.snape {
+            margin-top: 10px;
+            margin-bottom: 25px;
+        }
+        .slider-item p {
+            font-size: 14px;
+            padding-right: 0px;
+            margin: 0;
+        }
+        .works-blk.active {
+            padding-top: 90px; 
+        }
+        .works-blk.active h5 {
+            padding-bottom: 80px;
+        }
+        button.slick-arrow {
+            left: -20px;
+            bottom: -70px !IMPORTANT;
+            top: auto;
+            transform: translate(0) scale(.2);
+            box-shadow: 0px 13px 16px -8px #a9a9a93b;
+            border: 1px solid #cecece;
+        }
+        button.slick-next.slick-arrow { 
+            right: -20px;
+        }
+        .section-title {
+            margin-bottom: 60px;
+        }
+        .features-area {
+            padding-top: 60px;
+            padding-bottom: 50px;
+            background-size: cover;
+        }
+        .feature-blk img {
+            margin-bottom: 30px;
+            height: 50px;
+        }
+        .feature-blk h4 {
+            font-size: 17px;
+            margin-bottom: 20px;
+        }
+        .middle img {
+            height: 500px;
+            object-position: top;
+        }
+        .feature-blk {
+            padding: 25px;
+            padding-top: 51px;
+            padding-bottom: 30px;
+        }
+        .testimonail-area { 
+            margin-bottom: 30px;
+        }
+        .footer-menu ul li a { 
+            margin-left: 20px; 
+        }
+        .copy-texts p { 
+            font-size: 13px;
+        }
+        .footer-content {
+            padding: 35px 0;
+        }
+        .copy-texts p {
+            font-size: 12px;
+        }
+        .copy-texts {
+            padding: 15px 0;
+            text-align: center;
+        }
+        .footer-logo a img {
+            width: 210px;
+            margin: auto;
+            display: block;
+        }
+        .Image-preview {
+            margin-top: -25px;
+            margin-bottom: 80px;
+        }
+        .geller-blk.mt-225 {
+            margin-top: 100px;
+        }
+        .works-blk {
+            padding-top: 50px;
+            text-align: center;
+            margin-bottom: 50px !important;
+            border: 1px solid #eeeeee70;
+            width: 90%;
+            margin: auto;
+            border-radius: 20px;
+        }
+        .step-items .img.sec span { 
+            bottom: -40px; 
+            transform: scale(.6);
+            left: -2%;
+        } 
+        .main-steps .middle {
+            margin-top: 50px;
+        }
+        .cd-image-label {
+            bottom: 10px;
+            right: 10px;
+            width: 75px;
+            height: 35px;
+            line-height: 35px;
+            font-size: 12px;
+        }
+        .cd-resize-img .cd-image-label {
+            right: auto;
+            left: 10px;
+        }
+        .step-items .img.sec img {
+            height: unset;
+        }
+      
+        .works-blk img {
+            width: 95px !important;
+            margin: auto;
+            height: 90px;
+        }
+        .works-blk:hover {
+            padding-top: 50px;
+        }
+        .works-blk h5 {
+            padding-bottom: 50px;
+        }
+        .works-blk:hover h5 {
+            padding-bottom: 50px;
+        }
+        .works-blk a {
+            visibility: visible;
+            opacity: 1;
+            width: 180px;
+        }
+        .owl-dots {
+            margin: auto;
+            display: block;
+            text-align: center;
+        }
+        
+        .owl-dots .owl-dot {
+            display: inline-block;
+            width: 10px;
+            background: #F7F7F9;
+            height: 10px;
+            border-radius: 50%;
+            margin: 0 4px;
+            transition: .3s;
+        }
+        
+        .owl-dots .owl-dot.active {
+            background: #f8d000;
+        }
+        .paying-detailse h3 {
+            font-size: 26px;
+            margin-top: 50px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .paying-detailse h5 {
+            font-size: 14px;
+            text-align: left;
+        }
+        .paying-detailse h5 .price span {
+            padding: 10px 15px;
+            margin-left: 8px;
+        }
+        .paying-detailse > ul {
+            display: block;
+        }
+        .paying-detailse h5 a {
+            min-width: 150px;
+            height: 40px;
+            line-height: 40px;
+            font-size: 12px;
+        }
+        .paying-detailse p {
+            margin-top: 30px;
+            margin-bottom: 40px;
+        }
+        .paying-detailse li {
+            display: block;
+            text-align: left;
+            width: 100%;
+        }
+        .paying-detailse li h4 {
+            font-size: 14px;
+            margin-bottom: 10px;
+            padding-left: 25px;
+        }
+        .paying-detailse li .nice-select {
+            width: 100%;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 25px;
+            font-size: 15px;
+            margin-right: 0;
+            margin-bottom: 25px;
+        }
+        .paying-detailse li .nice-select:after {
+            border-bottom: 2px solid #B6B6B8;
+            border-right: 2px solid #B6B6B8;
+            height: 10px;
+            margin-top: -6px;
+            right: 30px;
+            top: 50%;
+            width: 10px;
+        }
+        .paying-detailse li .nice-select ul li { 
+            font-size: 15px; 
+        }
+        .paying-detailse li input {
+            width: 100%;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 25px;
+            font-size: 15px;
+        }
+        .paying-detailse a.theme-btn { 
+            margin-top: 25px;
+        } 
+        .tab-pane {
+            height: 290px;
+            border-radius: 15px;
+        }
+        .img-gellery .nav li.nav-item {
+            width: 80px;
+            margin: 0 5px;
+            height: 80px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+        ul#pills-tab {
+            justify-content: center;
+        }
+        .product-detailse {
+            padding-top: 50px;
+            padding-bottom: 70px;
+        }
+        .order-steps {
+            padding: 200px 0;
+            padding-bottom: 150px;
+        }
+        .order-single-blk {
+            padding: 20px 20px;
+            border-radius: 15px;
+        }
+        .order-single-blk span {
+            height: 50px;
+            min-width: 50px;
+            line-height: 50px;
+            font-size: 15px;
+            margin-right: 15px;
+        }
+        .addOns-area .mt-100 {
+            margin-top: 0;
+        }
+        .addOns-blk h4 {
+            font-size: 16px;
+            padding: 30px 0;
+        }
+        .addOns-area {
+            margin-top: 60px;
+        }
+        .img-gellery.product-imgs {
+            padding-right: 0px;
+        }
+        .gallery-area.addOns {
+            padding: 240px 0;
+            padding-top: 220px;
+        }
+        .paying-detailse { 
+            text-align: center;
+        }
+        .addOns-blk { 
+            margin-bottom: 30px;
+        }
+        .geller-blk.single .big-img {
+            margin: 0;
+        }
+
+
+
+
+        .points-area {
+            padding: 60px 0;
+        } 
+        .point-img {
+            margin-top: 50px;
+        }
+        .Bredcramp-area { 
+            height: 190px; 
+        }
+    
+        .bradcramp-text h1 {
+            font-size:24px; 
+        }
+        .how-its-work.about .works-blk h5 {
+            margin: 0;
+            margin-top: 15px;
+            font-size: 22px;
+            padding-bottom: 0;
+        }
+        .how-its-work.about .works-blk p {
+            margin: 0;
+            padding: 0 60px;
+            padding-bottom: 60px;
+        }
+        .gallery-area.gtwo.detailse.about .gallery-wrp {
+            padding: 0;
+            width: unset;
+            padding-left: 100px;
+        }
+        .how-its-work.about {
+            padding-top: 220px;
+        }
+        .how-its-work.about:before { 
+            width: 500px;
+            height: 500px; 
+            top: 15%;
+            left: -300px; 
+        }
+        .how-its-work.about:after {
+            width: 485px;
+            height: 485px;
+            top: 5%;
+            right: -300px;
+        }
+        .how-its-work.about .top-steps {
+            height: 520px;
+        } 
+        .point-img img {
+            width: 100%;
+        }
+        .point-blk .point-wrp h4 {
+            font-size: 28px; 
+            line-height: 30px;
+            margin-bottom: 20px;
+        }
+        .point-blk span {
+            font-size: 18px;
+            min-width: 50px;
+            height: 50px;
+            line-height: 50px;
+            margin-right: 25px;
+            margin-top: -13px;
+        }
+        .point-blk {
+            padding-right: 21px;
+            margin-bottom: 50px;
+        }
+        .point-blk .point-wrp h4 {
+            font-size: 16px;
+            line-height: 20px;
+            margin-bottom: 10px;
+        }
+        .artis { 
+            padding-bottom: 30px; 
+        }
+        .artis h5 {
+            font-size: 18px;
+            margin-top: 20px;
+            margin-bottom: 5px;
+        }
+        .gallery-area.gtwo.detailse.about {
+            background-size: 100% 100%;
+            padding-bottom: 120px;
+            padding-top: 170px;
+        }
+        .artist-area.how-its-work.detailse.about:after {
+            width: 320px;
+            height: 320px;
+            top: 10%;
+            right: -200px;
+        }
+        .how-its-work.detailse.about {
+            padding-top: 50px;
+        }
+        
+        .how-its-work.detailse.about .top-steps {
+            height: 370px;
+        }
+        
+        .how-its-work.detailse.about .works-blk img {
+           transform: scale(.5);
+        }
+        
+        .how-its-work.detailse.about .works-blk h5 {
+            font-size: 17px;
+        }
+        
+        .how-its-work.detailse.about .works-blk p {
+            padding: 20px;
+            padding-bottom: 30px;
+        }
+        .how-its-work.detailse.about span.snape-one {
+            width: 50px;
+            height: 50px;
+            top: 5%;
+        }
+        .how-its-work.detailse.about:before {
+            width: 280px;
+            height: 280px;
+            top: 20%;
+            left: -100px;
+        }
+        .how-its-work.detailse.about:after {
+            width: 350px;
+            height: 350px;
+            top: 7%;
+            right: -230px;
+        }
+        .gallery-area.gtwo.detailse.about .gallery-wrp {
+            padding: 0;
+            text-align: left;
+            padding-top: 30px;
+        }
+        .artist-area.how-its-work.detailse.about .section-title h1 {
+            font-size: 32px !important;
+            margin-bottom: 0px;
+        }
+        .artist-area.how-its-work.detailse.about .artis img {
+            height: unset;
+        } 
+        .how-its-work.detailse.about .middle {
+            margin: 0;
+        }
+        .artis {
+            box-shadow: 0px 15px 15px -4px #f7f7f7;
+        }
+        .works-blk { 
+            box-shadow: 0 22px 66px -31px #e9e9e9d1;
+        }
+        .paying-detailse .card .card-header button {
+            padding: 15px 20px;
+            font-size: 17px;
+        }
+        .paying-detailse .card .card-header button.btn.btn-link.collapsed span { 
+            right: 30px;
+            top: 16px;
+        }
+        .paying-detailse .card .card-header button.btn.btn-link span { 
+            right: 30px;
+            top: 16px;
+        }  
+        .addons-detailse a span { 
+            right: 30px; 
+        }
+        .paying-detailse .card .card-body h3 {
+            font-size: 13px;
+            margin-bottom: 22px;
+            text-align: left;
+        }
+        .paying-detailse .card .card-body .price-numbers ul li a {
+            padding: 0;
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+            margin-right: 5px;
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+        .paying-detailse .card .card-body {
+            padding: 0 25px;
+            padding-top: 30px;
+        }
+        .paying-detailse .card .card-body ul {
+            margin-bottom: 40px;
+        }
+        .paying-detailse .card .card-body ul li a {
+            padding: 0px 20px;
+            border-radius: 100px;
+            height: 35px;
+            line-height: 35px;
+            margin-right: 5px;
+            margin-bottom: 7px;
+            font-size: 10px;
+        }
+        .addons-detailse i {
+            width: 100%;
+            padding: 30px 25px;
+            border-radius: 10px;
+            font-size: 12px;
+            text-align: left;
+        }
+        .addons-detailse a {
+            font-size: 16px;
+            padding: 20px 30px;
+            margin-top: 10px;
+            text-align: left;
+        }
+        .paying-detailse form textarea {
+            min-height: 130px;
+            max-height: 130px;
+            border-radius: 15px;
+            padding: 10px;
+            padding-left: 30px;
+        }
+        .paying-detailse form .f-btns a {
+            margin-top: 15px;
+        }
+        .paying-detailse form span {
+            padding: 15px 0px;
+            padding-left: 30px;
+            text-align: left;
+        }
+        .paying-detailse .card {
+            border-radius: 15px;
+            margin-bottom: 40px;
+        } 
+        .addons-detailse { 
+            border-radius: 15px;
+            margin-bottom: 40px;
+        }
+        .Image-preview.detailse {
+            margin-bottom: 50px;
+            margin-top: 30px;
+        }
+
+        .paying-detailse .card .card-body ul li {
+            display: inline-block;
+            width: max-content;
+        }
+        .paying-detailse .card .card-body ul { 
+            text-align: left;
+        }
+        .mobile-menu a.humg-btn {
+            display: block;
+        }
+        .mobile-menu { 
+            padding-top:100px; 
+            width: 100%; 
+            margin-right: -492px;
+          } 
+
+
+
+
+        .cart-area {
+            padding: 50px 0;
+        }
+        .cart-table {
+            overflow: auto;
+        } 
+        .cart-table table {
+            width: 625px;
+        }
+        .single-cart table thead tr th { 
+            padding-bottom: 30px;
+        }
+        .single-cart table tbody tr td {
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+        .single-cart table tbody tr td img {
+            width: 60px;
+            height: 60px;
+            margin-right: 10px;
+        }
+        .single-cart table thead tr th:first-child {
+            padding-left: 0px;
+        }
+        .single-cart table thead tr th:last-child {
+            padding-right: 0px;
+        }
+        .single-cart table tbody tr td:first-child {
+            padding-left: 0px;
+        }
+        .single-cart table tbody tr td:last-child {
+            padding-right: 0px;
+        }
+        .single-cart table tbody tr td .cart-wrp h5 { 
+            font-size: 14px;
+        } 
+        .single-cart table tbody tr td .cart-wrp h5 span { 
+            margin-top: 5px;
+            font-size: 13px;
+        }
+        .nice-number button {
+            height: 30px;
+            width: 30px;
+            font-size: 24px;
+            line-height: 28px;
+        }
+        .nice-number input[type="number"] {
+            min-width: 40px; 
+        }
+        .single-cart table tbody tr td a.trash {
+            height: 35px;
+            width: 35px;
+            line-height: 35px;
+            margin-left: 15px;
+        }
+        .single-cart table { 
+            margin-bottom: 40px;
+        }
+        .total-costs h4 {
+            margin: 0;
+            height: 50px;
+            line-height: 50px;
+            width: 100%;
+            border-radius: 10px;
+            font-size: 14px;
+            margin-bottom: 15px;
+        }
+        .total-costs h4 span {
+            margin-left: 100px;
+        }
+        .single-cart a.theme-btn.inactive {
+            margin-right: 0px;
+            margin-bottom: 15px;
+        } 
+        .services-area {
+            padding-top: 50px; 
+        } 
+        .single-cart a.theme-btn.inactive {
+            margin-right: 10px; 
+        }
+        .services-contain h2 {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .services-contain p {
+            padding-bottom: 0px;
+            font-size: 13px;
+            line-height: 24px;
+        }
+        .services-contain {
+            margin-bottom: 60px;
+        }
+
+        .accordion-area {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        } 
+       .btn.btn-link.collapsed {
+        font-size: 15px;
+        padding: 0px 25px;
+        padding-left: 0px;
+        }
+        .btn.btn-link {
+            font-size: 15px;
+            padding: 0px 25px;
+            padding-left: 0px;
+        }
+          .accordion-area div#accordion span { 
+            right: 0px;
+            font-size: 26px;  
+          }
+          .card-body p {
+            padding: 10px 0;
+            margin-left: 0px;
+          } 
+          .card-body p:last-child {
+            padding-top: 0px;
+          } 
+          .card-header { 
+            padding-right: 0;
+            padding-left: 0px;
+        }
+        .contact-from p { 
+            font-weight: 400; 
+            margin-bottom: 15px;
+            margin-left: 30px;
+        }
+          
+        .contact-from ::placeholder { 
+            font-size: 14px; 
+            
+        }
+        .contact-from input {
+            border-radius: 50px;
+            padding: 10px 30px;
+            margin-bottom: 30px;
+        }
+        .contact-from textarea.message {
+            border-radius: 20px;
+            padding: 20px 30px;
+            min-height: 150px;
+        }
+        .contact-btn.btn {
+            height: 50px;
+            width: 170px;
+            line-height: 50px;
+            padding: 0px;
+        }
+        textarea.message {
+            margin-bottom: 25px;
+        }
+        .Contact-us-area {
+            padding: 70px 0px;
+        }
+
+ 
+}
+ 
+
+
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.mobile-menu a.humg-btn {
+    display: none;
+}
+.mobile-menu { 
+    padding-top: 50px; 
+    width: 320px;  
+  }
+
+
+
+
+
+
+
+
+}
